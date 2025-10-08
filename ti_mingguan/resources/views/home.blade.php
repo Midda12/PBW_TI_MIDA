@@ -16,6 +16,7 @@
     <a class="nav-link" href="/">Home</a>
   </li>
   <li class="nav-item">
+    
     <a class="nav-link" href="/berita">Berita</a>
   </li>
   <li class="nav-item">
@@ -37,8 +38,9 @@
 </head>
 <body style="margin:0; font-family:'Nunito', sans-serif; background:#f9f9ff; color:#333;">
 
+
 <!-- Navbar -->
-<div style="display:flex; justify-content:space-between; align-items:center; padding:20px 40px; background:linear-gradient(to right, #a18cd1, #fbc2eb);">
+<div style="display:flex; justify-content:space-between; align-items:center; padding:20px 40px; background:linear-gradient(to right, #b1a0daff, #c0a3d3ff);">
   <h2 style="margin:0; font-family:'Montserrat', sans-serif; color:white;">MID'S Lifestyle</h2>
   <div>
     <a href="/" style="color:white; text-decoration:none; margin:0 15px;">Home</a>
@@ -48,8 +50,9 @@
   </div>
 </div>
 
+
 <!-- Hero Section -->
-<div style="text-align:center; padding:80px 20px; background:linear-gradient(to right, #89f7fe, #66a6ff); color:white;">
+<div style="text-align:center; padding:80px 20px; background:linear-gradient(to right, #e4adb0ff, #c4a1e6ff); color:white;">
   <h1 style="font-family:'Montserrat', sans-serif; font-size:40px; margin:0;">✨ Welcome to MID'S Lifestyle ✨</h1>
   <p style="font-size:18px; margin-top:15px; max-width:600px; margin:auto;">
     Inspirasi seputar <b>fashion, skincare,dan makeup dengan gaya hidup modern</b>  
